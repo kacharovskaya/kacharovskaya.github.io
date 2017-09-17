@@ -22,6 +22,7 @@ width: 100%;
 text-align: center;
 color:#fff;
 height: 100vh;
+background-color:#000 url(../img/main-bg.jpg) center center no-repeat;
 }
 
 .main-overlay{
