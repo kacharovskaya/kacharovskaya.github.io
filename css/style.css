@@ -165,7 +165,7 @@ transition: 0.2s;
 
 .offer-btn:hover {
 background-color: #fff;	
-color: #373542;
+color: #373542 !important;
 text-decoration: none;
 }
 
