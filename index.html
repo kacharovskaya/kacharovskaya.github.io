@@ -88,10 +88,10 @@
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title">Работа №1</h4>
+        <h4 class="modal-title">Описание проекта</h4>
       </div>
       <div class="modal-body">
-      
+      ...
      </div>
     </div><!-- /.modal-content -->
   </div><!-- /.modal-dialog -->
@@ -102,16 +102,16 @@
     <script src="js/bootstrap.min.js"></script>
     <script>
       $(function(){
-        var link = $('a{data-toggle="modal"});
-          link.on('click', function(event){
-            var work = $(this).attr('data-work');
+        var link = $('a{data-toggle="modal"}');
+          link.on('.click', function(event) {
+            var work = $(this).attr('.data-work');
             var modal = $('modal');
             modal.find('.modal-body').load(work+'.html');
 
           });
       });
     </script>
-    <script>
+    <script type="text/javascript">
       $(document).ready(function() {
       $(".slowly").on("click", function(event) {
         event.preventDefault();
