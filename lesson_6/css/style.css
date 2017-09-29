@@ -1,0 +1,33 @@
+.box {
+	top: 0;
+  left:0;
+	background-color: #000;
+	width: 100%;
+	height: 200px;
+	position: fixed;
+}
+
+p {
+	margin-top: 230px;
+	text-align: justify;
+	color: #2E2E2E;
+}
+
+a {
+ color: #fff;
+ display: inline-block;
+ margin-left: 30px;
+ text-decoration: none;
+}
+
+.src {
+	padding: 90px 10px 0 600px;
+}
+
+img {
+	top: 20px;
+	left: 40px;
+	width: 200px;
+	position: fixed;
+	z-index: 3;
+}  
