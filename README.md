@@ -24,4 +24,6 @@
 
 [Урок №11](https://kacharovskaya.github.io/lesson_11/ "Сниппеты") - Сниппеты
 
-[Урок №12](https://kacharovskaya.github.io/lesson_12/ "PerfectPixel") - Верстка PerfectPixel
+[Урок №13](https://kacharovskaya.github.io/lesson_13/src/ "PerfectPixel") - Верстка PerfectPixel
+
+[Урок №14](https://kacharovskaya.github.io/lesson_14/src/ "Practice") - Practice
