@@ -23,3 +23,5 @@
 [Урок №10](https://kacharovskaya.github.io/lesson_10/ "Препроцессор LESS") - Препроцессор LESS
 
 [Урок №11](https://kacharovskaya.github.io/lesson_11/"Сниппеты") - Сниппеты
+
+[Урок №12](https://kacharovskaya.github.io/lesson_12/"PerfectPixel") - Верстка PerfectPixel
