@@ -20,7 +20,7 @@
 
 [Урок №9](https://kacharovskaya.github.io/lesson_9/ "Верстка макета при помощи Bootstrap") - Верстка макета при помощи Bootstrap
 
-[Урок №10](https://kacharovskaya.github.io/lesson_10/ "Препроцессор LESS") - Препроцессор LESS
+[Урок №10](https://kacharovskaya.github.io/lesson_10/main.less "Препроцессор LESS") - Препроцессор LESS
 
 [Урок №11](https://kacharovskaya.github.io/lesson_11/ "Сниппеты") - Сниппеты
 
