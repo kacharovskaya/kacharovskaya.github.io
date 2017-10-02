@@ -27,3 +27,7 @@
 [Урок №13](https://kacharovskaya.github.io/lesson_13/src/ "PerfectPixel") - Верстка PerfectPixel
 
 [Урок №14](https://kacharovskaya.github.io/lesson_14/src/ "Practice") - Practice
+
+[Урок №14.1](https://kacharovskaya.github.io/lesson_14.1/src/ "Fonts") - Подключение шрифтов
+
+[Урок №14.2](https://kacharovskaya.github.io/lesson_14.2/src/ "Practice1") - Practice - подключение шрифтов, верстка первой страницы
