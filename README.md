@@ -33,3 +33,5 @@
 [Урок №14.2](https://kacharovskaya.github.io/lesson_14.2/src/ "Practice1") - Practice - подключение шрифтов, верстка первой страницы
 
 [Урок №15](https://kacharovskaya.github.io/lesson_15/src/ "Псевдоклассы и псевдоэлементы") - Псевдоклассы и псевдоэлементы
+
+[Урок №15.1](https://kacharovskaya.github.io/lesson_15.1/src/ "Practice2") - Эффекты при наведении и адаптив первого экрана
