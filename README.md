@@ -38,3 +38,5 @@
 
 [Урок №16](https://kacharovskaya.github.io/lesson_16/src/ "Слайдер") - Сладер
 
+[Урок №15.2](https://kacharovskaya.github.io/lesson_15.2/src/ "Practice3") - Практика - слайдер
+
