@@ -35,3 +35,6 @@
 [Урок №15](https://kacharovskaya.github.io/lesson_15/src/ "Псевдоклассы и псевдоэлементы") - Псевдоклассы и псевдоэлементы
 
 [Урок №15.1](https://kacharovskaya.github.io/lesson_15.1/src/ "Practice2") - Эффекты при наведении и адаптив первого экрана
+
+[Урок №16](https://kacharovskaya.github.io/lesson_16/src/ "Слайдер") - Сладер
+
