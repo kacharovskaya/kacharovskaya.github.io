@@ -189,16 +189,34 @@ section {
     text-align: center;
   }
 }
-@media (max-width 640px) {
+@media (max-width: 420px) {
   .main {
-    background-position: top left;
-    position: relative;
-  }
-  .header {
     text-align: center;
+    background-position: top left;
+    margin-top: 8rem;
   }
-  .phone-link {
+  .main h1 {
+    font-size: 2.8rem;
+    margin-top: 4rem;
+  }
+  .wrap-block {
+    display: inline-block;
     position: absolute;
-    margin-top: 0;
+    text-align: center;
+    margin-top: -10rem;
+    margin-left: -5rem;
+    height: 60%;
+  }
+  .phone-block {
+    display: inline-block;
+    position: absolute;
+    text-align: center;
+    margin-top: -11rem;
+    left: 15px;
+  }
+  .logo {
+    display: block;
+    position: absolute;
+    margin: 2rem 6rem;
   }
 }
