@@ -203,15 +203,14 @@ section {
     display: inline-block;
     position: absolute;
     text-align: center;
-    margin-top: -10rem;
-    margin-left: -5rem;
+    margin-top: -9rem;
+    margin-left: -2rem;
     height: 60%;
   }
   .phone-block {
     display: inline-block;
     position: absolute;
-    text-align: center;
-    margin-top: -11rem;
+    margin-top: -10.5rem;
     left: 15px;
   }
   .logo {
