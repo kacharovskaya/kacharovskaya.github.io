@@ -183,11 +183,9 @@ section {
   display: inline-block;
   width: 70%;
 }
-.features-img {
+.features .image {
   height: 8rem;
   margin-bottom: 3rem;
-}
-.features-img img {
   display: block;
   margin: 0 auto;
 }
@@ -243,8 +241,31 @@ section {
 @media (max-width: 420px) {
   .main {
     text-align: center;
+    background-position: top left;
+    margin-top: 8rem;
   }
   .main h1 {
-    font-size: 2rem;
+    font-size: 2.8rem;
+    margin-top: 4rem;
+  }
+  .wrap-block {
+    display: inline-block;
+    position: absolute;
+    text-align: center;
+    margin-top: -10rem;
+    margin-left: -5rem;
+    height: 60%;
+  }
+  .phone-block {
+    display: inline-block;
+    position: absolute;
+    text-align: center;
+    margin-top: -11rem;
+    left: 15px;
+  }
+  .logo {
+    display: block;
+    position: absolute;
+    margin: 2rem 6rem;
   }
 }

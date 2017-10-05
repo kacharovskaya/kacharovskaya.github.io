@@ -220,13 +220,11 @@ section {
       width: 70%
     }
   }
-  &-img {
+  .image {
     height: 8rem;
     margin-bottom: 3rem;
-    img {
-      display: block;
-      margin: 0 auto;
-    }
+    display: block;
+    margin: 0 auto;
   }
 }
 .slick-active {
@@ -284,8 +282,32 @@ section {
 @media (max-width: 420px) {
  .main {
     text-align: center;
+    background-position: top left;
+    margin-top: 8rem;
     h1 {
-      font-size: 2rem;
+      font-size: 2.8rem;
+      margin-top: 4rem;
     }
   }
+  .wrap-block {
+    display: inline-block;
+    position: absolute;
+    text-align: center;
+    margin-top: -10rem;
+    margin-left: -5rem;
+    height: 60%;
+  }
+
+  .phone-block {
+    display: inline-block;
+    position: absolute;
+    text-align: center;
+    margin-top: -11rem;
+    left: 15px;
+  }
+  .logo {
+    display: block;
+    position: absolute;
+    margin: 2rem 6rem;
+  } 
 }
