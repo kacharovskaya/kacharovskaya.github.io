@@ -48,6 +48,12 @@ a:focus {
 section {
   padding: 10rem 0;
 }
+.section-header {
+  margin: 10rem 0 10rem;
+  font-family: 'ProximaNova_Bold', sans-serif;
+  font-size: 3.6rem;
+  text-align: center;
+}
 /* main */
 .main {
   background: #ffffff url(../img/main-bg.jpg) center center no-repeat;
@@ -163,6 +169,51 @@ section {
   line-height: 7rem;
   color: #14111a;
 }
+/*Оформление секции с преимуществами*/
+.features-block {
+  text-align: center;
+}
+.features-block h3 {
+  font-family: 'ProximaNova_Bold', sans-serif;
+  font-size: 2rem;
+  margin-bottom: 3rem;
+}
+.features-block p {
+  font-size: 1.4rem;
+  display: inline-block;
+  width: 70%;
+}
+.features-img {
+  height: 8rem;
+  margin-bottom: 3rem;
+}
+.features-img img {
+  display: block;
+  margin: 0 auto;
+}
+.slick-active {
+  outline: none;
+}
+.arrow {
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  position: absolute;
+  z-index: 99;
+  width: 2rem;
+  height: 2rem;
+  border: none;
+}
+.prev {
+  left: 0;
+  background: url(../img/features/left-arrow.svg) center no-repeat;
+  background-size: 70%;
+}
+.next {
+  right: 0;
+  background: url(../img/features/right-arrow.svg) center no-repeat;
+  background-size: 70%;
+}
 @media (max-width: 991px) {
   .main {
     background-position: top right;
@@ -203,14 +254,15 @@ section {
     display: inline-block;
     position: absolute;
     text-align: center;
-    margin-top: -9rem;
-    margin-left: -2rem;
+    margin-top: -10rem;
+    margin-left: -5rem;
     height: 60%;
   }
   .phone-block {
     display: inline-block;
     position: absolute;
-    margin-top: -10.5rem;
+    text-align: center;
+    margin-top: -11rem;
     left: 15px;
   }
   .logo {
