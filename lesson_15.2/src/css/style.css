@@ -238,34 +238,109 @@ section {
     text-align: center;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 521px) {
   .main {
     text-align: center;
     background-position: top left;
-    margin-top: 8rem;
   }
-  .main h1 {
-    font-size: 2.8rem;
-    margin-top: 4rem;
+  .main-content {
+    margin-right: 4rem;
+  }
+  .main-content h1 {
+    font-size: 3.5rem;
+    margin-top: 10rem;
   }
   .wrap-block {
     display: inline-block;
-    position: absolute;
     text-align: center;
-    margin-top: -10rem;
-    margin-left: -5rem;
-    height: 60%;
+    margin-left: -3rem;
+    width: 130%;
   }
   .phone-block {
     display: inline-block;
-    position: absolute;
     text-align: center;
-    margin-top: -11rem;
-    left: 15px;
+    -webkit-transform: translateY(-10%);
+            transform: translateY(-10%);
   }
   .logo {
     display: block;
     position: absolute;
-    margin: 2rem 6rem;
+    margin: 8rem 0;
+    -webkit-transform: translateX(60%);
+            transform: translateX(60%);
+  }
+  .features {
+    width: 90%;
+    margin-left: 1rem;
+  }
+}
+@media (max-width: 475px) {
+  .main {
+    text-align: center;
+    background-position: top left;
+  }
+  .main h1 {
+    font-size: 2.8rem;
+  }
+}
+@media (max-width: 400px) {
+  .main h1 {
+    font-size: 2.5rem;
+  }
+  .wrap-block {
+    width: 90%;
+  }
+  .logo {
+    margin: 8rem 0;
+    -webkit-transform: translateX(35%);
+            transform: translateX(35%);
+  }
+}
+@media (max-width: 321px) {
+  .main {
+    text-align: center;
+    background-position: 0 6rem;
+  }
+  .main-content {
+    text-align: center;
+    margin-right: 2rem;
+  }
+  .main-content h1 {
+    font-size: 2.2rem;
+  }
+  .row {
+    margin-top: -1.7rem;
+  }
+  .header-btn {
+    display: inline-block;
+    line-height: 1.2rem;
+    font-weight: 600;
+    font-size: 1.1rem;
+    width: 12rem;
+    height: 3.5rem;
+    margin-left: 1rem;
+    margin-top: -2rem;
+    padding: 0.7rem;
+  }
+  .phone-link {
+    display: inline-block;
+    position: absolute;
+    font-size: 1.4rem;
+    width: 11rem;
+    margin-left: -6rem;
+    margin-top: -3rem;
+  }
+  .logo {
+    display: block;
+    -webkit-transform: translateX(18%);
+            transform: translateX(18%);
+  }
+  .prev {
+    left: 4rem;
+    margin-top: -10rem;
+  }
+  .next {
+    right: 4rem;
+    margin-top: -10rem;
   }
 }
