@@ -36,7 +36,9 @@
 
 [Урок №15.1](https://kacharovskaya.github.io/lesson_15.1/src/ "Practice2") - Эффекты при наведении и адаптив первого экрана
 
-[Урок №16](https://kacharovskaya.github.io/lesson_16/src/ "Слайдер") - Сладер
+[Урок №16](https://kacharovskaya.github.io/lesson_16/src/ "Слайдер") - Слайдер
 
 [Урок №15.2](https://kacharovskaya.github.io/lesson_15.2/src/ "Practice3") - Практика - слайдер
+
+[Урок №17](https://kacharovskaya.github.io/lesson_17/src/ "Модальное окно") - Модальное окно
 
