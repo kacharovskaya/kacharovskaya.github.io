@@ -42,3 +42,5 @@
 
 [Урок №17](https://kacharovskaya.github.io/lesson_17/src/ "Модальное окно") - Модальное окно
 
+[Practice_5](https://kacharovskaya.github.io/Practice_5/src/ "Практика_5. Модальное окно") - Практика_5. Модальное окно
+
