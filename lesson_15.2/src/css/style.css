@@ -308,6 +308,11 @@ section {
   .main-content h1 {
     font-size: 2.2rem;
   }
+  
+  .main-subtitle {
+    font-size: 2rem;
+  }
+  
   .row {
     margin-top: -1.7rem;
   }
