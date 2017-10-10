@@ -44,3 +44,9 @@
 
 [Practice_5](https://kacharovskaya.github.io/Practice_5/src/ "Практика_5. Модальное окно") - Практика_5. Модальное окно
 
+[Урок №18](https://kacharovskaya.github.io/lesson_18-tabs/src/ "Табы") - Табы
+
+[Урок №18.1](https://kacharovskaya.github.io/lesson_18.1-accordion/src/ "Аккордеон") - Аккордеон
+
+[Practice_6](https://kacharovskaya.github.io/Practice_6/src/ "Практика_6. Блок с ценами") - Практика_6. Верстка блока с ценами
+
