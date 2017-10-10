@@ -52,3 +52,4 @@
 
 [Урок №19](https://kacharovskaya.github.io/lesson_19/src/ "Анимация") - Анимация элементов формы
 
+[Practice_7](https://kacharovskaya.github.io/Practice_7/src/ "Практика_7. Блок с отзывами") - Практика_7. Верстка блока с отзывами
