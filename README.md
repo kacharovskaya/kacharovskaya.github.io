@@ -50,3 +50,5 @@
 
 [Practice_6](https://kacharovskaya.github.io/Practice_6/src/ "Практика_6. Блок с ценами") - Практика_6. Верстка блока с ценами
 
+[Урок №19](https://kacharovskaya.github.io/lesson_19/src/ "Анимация") - Анимация элементов формы
+
