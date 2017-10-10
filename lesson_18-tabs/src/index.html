@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="/favicon.ico">
+
+    <title>Табы</title>
+
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+
+
+  </head>
+
+  <body>
+
+    <div class="container">
+      <div class="form">
+        <ul class="nav nav-tabs">
+          <li class="active">
+            <a href="#login" data-toggle="tab">Вход</a>
+          </li>
+          <li >
+            <a href="#registration" data-toggle="tab">Регистрация</a></li>
+        </ul>
+        
+        <div class="tab-content">
+          <div class="tab-pane active" id="login">          
+            <div class="form-input">
+              <form action="#">
+                <input class="input" type="text" placeholder="Ваше имя">
+                <input class="input input-password" type="text" placeholder="Пароль">
+                <a class="forget" href="#">Забыли пароль?</a>
+                <input class="notify" id="notify" type="checkbox">
+                <label for="notify">Напомнить мне</label>
+                <button class="button">Войти</button>
+              </form>
+            </div>
+          </div>
+          <div class="tab-pane registration" id="registration"><p class="text-registration">Используя наши службы, вы соглашаетесь с настоящими Условиями. Просим вас внимательно ознакомиться с ними.</p></div>
+        </div>
+      </div>
+    </div>
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script src="http://getbootstrap.com/assets/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>

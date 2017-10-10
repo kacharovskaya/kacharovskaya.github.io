@@ -1,0 +1,128 @@
+@font-face {
+  font-family: 'Myriad Pro';
+  src: url('../fonts/MyriadPro-Regular.eot');
+  src: url('../fonts/MyriadPro-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/MyriadPro-Regular.woff2') format('woff2'),
+    url('../fonts/MyriadPro-Regular.woff') format('woff'),
+    url('../fonts/MyriadPro-Regular.ttf') format('truetype'),
+    url('../fonts/MyriadPro-Regular.svg#MyriadPro-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+ font-family: 'Myriad Pro';
+ background: url(../img/bg.jpg) no-repeat center;
+ width: 800px;
+ height: 490px;
+}
+
+.form {
+ margin-top: 20px;
+ left: 400px;
+ transform: translateX(37%);
+}
+
+.nav {
+ font-size: 24px;
+ height: 35px;
+ margin-left: 15px;
+ border-bottom: none;
+}
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+ background-color: #03A5DA;
+ color: #fff;
+}
+
+.nav>li>a {
+ padding: 0 25px 5px 25px;
+ background-color: #fff;
+ color: black;
+ border-radius: 5px;
+  
+}
+
+.tab-pane {
+ position: relative;
+ width: 55%;
+ padding: 20px;
+ background-color: #03A5DA;
+ border-radius: 5px;
+}
+.form-input {
+ background-color: #000000;
+ border-radius: 5px;
+ padding: 70px 0 40px 0;
+}
+
+.input {
+ display: block;
+ margin: 5px auto;
+ margin-bottom: 30px;
+ width: 480px;
+ height: 55px;
+ font-size: 24px;
+ background: url(../img/input-bg.png) no-repeat;
+ color: white;
+ border: none;
+ border-radius: 5px;
+ padding: 1px 20px;
+}
+
+input::placeholder {
+ color: white;
+}
+
+.text-registration {
+ font-size: 24px;
+ color: #fff;
+}
+
+.registration {
+ width: 625px;
+ height: 410px;
+ text-align: center;
+}
+
+.input-password {
+ margin-bottom: 20px;
+
+}
+.forget {
+ display: block;
+ margin-left: 65px;
+ color: #C51F03;
+}
+
+.forget:active, .forget:focus, .forget:hover {
+ text-decoration: none;
+}
+.forget:hover {
+ color: #EB5034;
+}
+input[type=checkbox] {
+ vertical-align: -2px;
+ display: inline-block;
+ margin: 60px 0 0 65px;
+}
+label {
+ font-size: 15px;
+ color: #6f6d6d;
+}
+
+.button {
+ position: absolute;
+ width: 130px;
+ height: 55px;
+ right: -20px;
+ transform: translateY(95%);
+ text-align: center;
+ padding-bottom: 15px;
+ font-size: 24px;
+ color: #fff;
+ background: url(../img/shape_ribbon.png) no-repeat center;
+ background-color: transparent;
+ border: none;
+}
+
