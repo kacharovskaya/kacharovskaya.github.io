@@ -1,0 +1,25 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+}
+
+.section {
+	display: table;
+	min-height: 100vh;
+	text-align: center;
+	width: 100%;
+}
+
+.wrap-block {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+img {
+	width: 400px;
+	margin-left: 40%;
+	transform: translateY(90%);
+}
