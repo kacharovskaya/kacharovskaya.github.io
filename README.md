@@ -55,3 +55,5 @@
 [Practice_7](https://kacharovskaya.github.io/Practice_7/src/ "Практика_7. Блок с отзывами") - Практика_7. Верстка блока с отзывами
 
 [Урок №20](https://kacharovskaya.github.io/lesson_20/src/ "Видео-фон") - Видео-фон
+
+[Practice_8](https://kacharovskaya.github.io/Practice_8/src/ "Практика_8. Блок с отзывами. Адаптация.") - Практика_8. Верстка блока с отзывами и адаптация.
