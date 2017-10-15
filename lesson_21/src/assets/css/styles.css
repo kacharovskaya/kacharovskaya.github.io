@@ -296,6 +296,7 @@ a.btn-cta {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  z-index: 1;
 }
 .hero-carousel .carousel-inner .item-2 {
   background-image: url('../images/hero-2.jpg');
@@ -303,6 +304,7 @@ a.btn-cta {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  z-index: 2;
 }
 .hero-carousel .carousel-inner .item-3 {
   background-image: url('../images/hero-3.jpg');
@@ -310,6 +312,7 @@ a.btn-cta {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  z-index: 3;
 }
 .hero-carousel .carousel-inner .heading {
   font-size: 30px;
