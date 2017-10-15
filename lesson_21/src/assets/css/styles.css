@@ -263,6 +263,7 @@ a.btn-cta {
 /* ======= Hero Section ======= */
 .hero-section {
   min-height: 560px;
+  background: #494d55;
   position: relative;
 }
 .hero-section .figure-holder-wrapper {
@@ -287,6 +288,7 @@ a.btn-cta {
   color: #fff;
 }
 .hero-carousel .carousel-inner .item {
+  background-attachment: fixed; 
   height: 560px;
   background-position: center center;
 }
@@ -296,7 +298,6 @@ a.btn-cta {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  z-index: 1;
 }
 .hero-carousel .carousel-inner .item-2 {
   background-image: url('../images/hero-2.jpg');
@@ -304,7 +305,6 @@ a.btn-cta {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  z-index: 2;
 }
 .hero-carousel .carousel-inner .item-3 {
   background-image: url('../images/hero-3.jpg');
@@ -312,7 +312,6 @@ a.btn-cta {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  z-index: 3;
 }
 .hero-carousel .carousel-inner .heading {
   font-size: 30px;
