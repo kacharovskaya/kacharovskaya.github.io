@@ -1,0 +1,76 @@
+html {
+  font-family: 'Open Sans' sans-serif;
+}
+body {
+  background: none;
+}
+.ymap {
+  position: absolute;
+}
+.map {
+  display: block;
+  position: absolute;
+  margin-top: -20px;
+  margin-left: 490px;
+}
+.map .wrap {
+  width: 380px;
+  height: 430px;
+  color: #fff;
+  background: #E70303;
+  text-align: center;
+}
+.map .wrap h2 {
+  font-size: 30px;
+  padding: 60px 0 30px 0;
+}
+.map .wrap p {
+  font-size: 18px;
+  padding-bottom: 20px;
+}
+.map .wrap a {
+  color: #fff;
+  text-decoration: underline;
+}
+.footer {
+  display: block;
+  position: absolute;
+  margin-top: 430px;
+  height: 95px;
+  width: 100%;
+  background: #fff;
+  background-size: 100%;
+}
+.footer .logo {
+  float: left;
+  margin-right: 15px;
+  margin-top: 20px;
+}
+.footer .text-logo {
+  font-size: 15px;
+  margin-top: 20px;
+}
+.footer .work {
+  color: #666666;
+  font-size: 14px;
+  text-align: center;
+  margin-top: 30px;
+}
+.footer .phone {
+  font-size: 22px;
+  font-weight: 600;
+  margin-top: 15px;
+  text-align: right;
+  -webkit-transform: translateX(20%);
+          transform: translateX(20%);
+}
+.footer .address {
+  font-size: 14px;
+  font-weight: 600;
+  text-align: right;
+  -webkit-transform: translateX(20%);
+          transform: translateX(20%);
+}
+.footer .row {
+  margin-left: 490px;
+}
