@@ -58,8 +58,10 @@
 
 [Practice_8](https://kacharovskaya.github.io/Practice_8/src/ "Практика_8. Блок с отзывами. Адаптив.") - Практика_8. Верстка блока с отзывами и адаптив.
 
-[Practice_9](https://kacharovskaya.github.io/Practice_9/src/ "Практика_8. Всё включено. Адаптив.") - Практика_9. Всё включено, адаптив.
+[Practice_9](https://kacharovskaya.github.io/Practice_9/src/ "Практика_9. Всё включено. Адаптив.") - Практика_9. Всё включено, адаптив.
 
 [Урок №21](https://kacharovskaya.github.io/lesson_21/src/ "Эффекты Parallax и Rellax") - Эффекты Parallax и Rellax
 
 [Урок №22](https://kacharovskaya.github.io/lesson_22/src/ "Карта") - Карта
+
+[Practice_10](https://kacharovskaya.github.io/Practice_9/src/ "Практика_10. Верстаем блок "Развеиваем сомнения"") - Практика_10 Верстаем блок "Развеиваем сомнения"
