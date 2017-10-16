@@ -479,20 +479,20 @@ section {
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
 }
-.problems-list-bad {
+.problems-list_bad {
   border-color: #e8e8e8;
 }
-.problems-list-bad h4 {
+.problems-list_bad h4 {
   opacity: 0.5;
 }
-.problems-list-bad ul li:before {
+.problems-list_bad ul li:before {
   background: url(../img/problem.png) center no-repeat;
   background-size: 70%;
 }
-.problems-list-good {
+.problems-list_good {
   border-color: #00b600;
 }
-.problems-list-good ul li:before {
+.problems-list_good ul li:before {
   background: url(../img/check.png) center no-repeat;
   background-size: 70%;
 }
