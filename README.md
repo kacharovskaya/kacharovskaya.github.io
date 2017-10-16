@@ -64,4 +64,4 @@
 
 [Урок №22](https://kacharovskaya.github.io/lesson_22/src/ "Карта") - Карта
 
-[Practice_10](https://kacharovskaya.github.io/Practice_9/src/ "Практика_10. Верстаем блок "Развеиваем сомнения"") - Практика_10 Верстаем блок "Развеиваем сомнения"
+[Practice_10](https://kacharovskaya.github.io/Practice_9/src/ "Практика_10. Верстаем блок "Развеиваем сомнения") - Практика_10 Верстаем блок "Развеиваем сомнения"
