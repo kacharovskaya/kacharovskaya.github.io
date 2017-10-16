@@ -258,7 +258,7 @@ a.btn-cta {
   color: #40babd;
 }
 .footer .fa-heart {
-  color: #EA5395;
+  color: #ea5395;
 }
 /* ======= Hero Section ======= */
 .hero-section {
@@ -289,27 +289,7 @@ a.btn-cta {
 .hero-carousel .carousel-inner .item {
   height: 560px;
   background-position: center center;
-}
-.hero-carousel .carousel-inner .item-1 {
-  background-image: url('../images/hero-1.jpg');
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-.hero-carousel .carousel-inner .item-2 {
-  background-image: url('../images/hero-2.jpg');
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-.hero-carousel .carousel-inner .item-3 {
-  background-image: url('../images/hero-3.jpg');
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  z-index: auto;
 }
 .hero-carousel .carousel-inner .heading {
   font-size: 30px;
@@ -530,7 +510,8 @@ a.btn-cta {
   position: relative;
 }
 .feature-nav > li .fa {
-  margin-right: 5px;
+  margin-right: 10px;
+  width: 20px;
 }
 .feature-nav > li.active > a {
   color: #40babd;
@@ -595,7 +576,7 @@ a.btn-cta {
   background: #58bbee;
 }
 .pricing-wrapper .item-3 .item-inner {
-  background: #F8A13F;
+  background: #f8a13f;
 }
 .pricing-wrapper .item-heading {
   font-weight: 800;
@@ -722,19 +703,19 @@ a.btn-cta {
   background: #344e86;
 }
 .team-section .social a.linkedin {
-  background: #1E6FBA;
+  background: #1e6fba;
 }
 .team-section .social a.linkedin:hover {
   background: #1a62a4;
 }
 .team-section .social a.github {
-  background: #444;
+  background: #444444;
 }
 .team-section .social a.github:hover {
   background: #373737;
 }
 .team-section .social a.dribbble {
-  background: #EC4D8B;
+  background: #ec4d8b;
 }
 .team-section .social a.dribbble:hover {
   background: #ea367c;
